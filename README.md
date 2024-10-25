@@ -1,0 +1,1 @@
+This section contains my personal kata solutions from the Codewars website. Here you can see how a self-taught student tries to solve logic problems. I solved kata from 8 to 3 kyu. I hope that I will decide again soon. I liked this site because in addition to my own solution, you can look at the solutions of more experienced programmers.
